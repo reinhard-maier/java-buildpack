@@ -15,5 +15,4 @@
 
 # Configuration for the Java Main container
 ---
-java_main_class:
-arguments:
+java_main_class: com.quantifind.kafka.offsetapp.OffsetGetterWeb
